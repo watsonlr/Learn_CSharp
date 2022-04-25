@@ -1,0 +1,15 @@
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/bin/Debug/net6.0/Learning
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/bin/Debug/net6.0/Learning.deps.json
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/bin/Debug/net6.0/Learning.runtimeconfig.json
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/bin/Debug/net6.0/Learning.dll
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/bin/Debug/net6.0/Learning.pdb
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.csproj.AssemblyReference.cache
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.AssemblyInfoInputs.cache
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.AssemblyInfo.cs
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.csproj.CoreCompileInputs.cache
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.dll
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/refint/Learning.dll
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.pdb
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/Learning.genruntimeconfig.cache
+/Users/lynn/Documents/Repositories/Learning_CSharp/Learning/obj/Debug/net6.0/ref/Learning.dll
